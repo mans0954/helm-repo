@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  comanage:
+  - apiVersion: v1
+    appVersion: 3.1.0
+    created: 2018-03-09T16:18:45.147872582Z
+    description: An unofficial COmanage Helm chart for Kubernetes
+    digest: 63994a7a11a8daa094ea1d5d2692eef767cbf7f4821370e1a8e9cd94305ea0fb
+    icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
+    name: comanage
+    urls:
+    - comanage-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-03-09T16:18:45.144542053Z
