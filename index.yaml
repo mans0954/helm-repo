@@ -3,7 +3,7 @@ entries:
   comanage:
   - apiVersion: v1
     appVersion: 3.1.0
-    created: 2018-03-12T14:51:43.536826856Z
+    created: 2018-03-22T06:57:06.608467541Z
     description: An unofficial COmanage Helm chart for Kubernetes
     digest: 75820fe6c1c7a4db460045a7d8084aa4a506661512aa4c038f653c8e868be7d6
     icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 3.1.0
-    created: 2018-03-12T14:51:43.534053642Z
+    created: 2018-03-22T06:57:06.606217453Z
     description: An unofficial COmanage Helm chart for Kubernetes
     digest: 63994a7a11a8daa094ea1d5d2692eef767cbf7f4821370e1a8e9cd94305ea0fb
     icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
@@ -21,4 +21,25 @@ entries:
     urls:
     - comanage-0.1.0.tgz
     version: 0.1.0
-generated: 2018-03-12T14:51:43.530464088Z
+  kerberos:
+  - apiVersion: v1
+    appVersion: "1.15"
+    created: 2018-03-22T06:57:06.608777463Z
+    description: MIT Kerberos 5 chart
+    digest: cf4178f078b7ed834d7aeb7a6191156dbe9969bfdd8b2fc610145e267220ce9e
+    name: kerberos
+    urls:
+    - kerberos-0.1.0.tgz
+    version: 0.1.0
+  shibboleth-idp:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-03-22T06:57:06.609235802Z
+    description: A Helm chart for Kubernetes
+    digest: 313a842207a543e94d3e168568b7d657366f54d924178715bef8260af779a0b0
+    icon: https://www.shibboleth.net/wp-content/uploads/2017/01/Shibboleth-logo_2000x1200-1.png
+    name: shibboleth-idp
+    urls:
+    - shibboleth-idp-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-03-22T06:57:06.603348573Z
