@@ -3,7 +3,17 @@ entries:
   comanage:
   - apiVersion: v1
     appVersion: 3.1.0
-    created: 2018-03-22T06:57:06.608467541Z
+    created: 2018-03-22T07:42:14.718392152Z
+    description: An unofficial COmanage Helm chart for Kubernetes
+    digest: 69a51d53b843d0935cc017d69fce6258ecb57bb2958729901b3ec03598014b38
+    icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
+    name: comanage
+    urls:
+    - comanage-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: 3.1.0
+    created: 2018-03-22T07:42:14.717446708Z
     description: An unofficial COmanage Helm chart for Kubernetes
     digest: 75820fe6c1c7a4db460045a7d8084aa4a506661512aa4c038f653c8e868be7d6
     icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 3.1.0
-    created: 2018-03-22T06:57:06.606217453Z
+    created: 2018-03-22T07:42:14.71517811Z
     description: An unofficial COmanage Helm chart for Kubernetes
     digest: 63994a7a11a8daa094ea1d5d2692eef767cbf7f4821370e1a8e9cd94305ea0fb
     icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
@@ -24,7 +34,7 @@ entries:
   kerberos:
   - apiVersion: v1
     appVersion: "1.15"
-    created: 2018-03-22T06:57:06.608777463Z
+    created: 2018-03-22T07:42:14.718694043Z
     description: MIT Kerberos 5 chart
     digest: cf4178f078b7ed834d7aeb7a6191156dbe9969bfdd8b2fc610145e267220ce9e
     name: kerberos
@@ -34,7 +44,7 @@ entries:
   shibboleth-idp:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-03-22T06:57:06.609235802Z
+    created: 2018-03-22T07:42:14.719152583Z
     description: A Helm chart for Kubernetes
     digest: 313a842207a543e94d3e168568b7d657366f54d924178715bef8260af779a0b0
     icon: https://www.shibboleth.net/wp-content/uploads/2017/01/Shibboleth-logo_2000x1200-1.png
@@ -42,4 +52,4 @@ entries:
     urls:
     - shibboleth-idp-0.1.0.tgz
     version: 0.1.0
-generated: 2018-03-22T06:57:06.603348573Z
+generated: 2018-03-22T07:42:14.712336156Z
