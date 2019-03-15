@@ -1,5 +1,7 @@
 # Unofficial Helm repo
 
+Published at https://mans0954.github.io/helm-repo/
+
 Build some Helm packages in the folder:
 ```
 helm package ../comanage/
