@@ -3,7 +3,7 @@ entries:
   comanage:
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2019-06-25T20:58:47.654598234+01:00"
+    created: "2019-06-26T14:21:08.954057951+01:00"
     description: An unofficial COmanage Helm chart for Kubernetes
     digest: 8941647b46f3d90ba468d5617bea4decf3ed70b35de5da494f282b358407b985
     icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
@@ -13,7 +13,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 3.2.0-20190101
-    created: "2019-06-25T20:58:47.652919472+01:00"
+    created: "2019-06-26T14:21:08.94966897+01:00"
     description: An unofficial COmanage Helm chart for Kubernetes
     digest: 30211a71aa0773eb31ed633f790ed6b8f4d234196dfad318ac27211f28323850
     icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
@@ -23,7 +23,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2019-06-25T20:58:47.650975752+01:00"
+    created: "2019-06-26T14:21:08.94426034+01:00"
     description: An unofficial COmanage Helm chart for Kubernetes
     digest: 1953dcd6c4d0bfddc449779f821a492e6c70c0a31349f2b270c5f716bd704b05
     icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
@@ -33,7 +33,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2019-06-25T20:58:47.650068191+01:00"
+    created: "2019-06-26T14:21:08.941558462+01:00"
     description: An unofficial COmanage Helm chart for Kubernetes
     digest: 6ea68848f9163eb26b3d98fbb286c78dca506155b20957672015336b70364e69
     icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
@@ -43,7 +43,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2019-06-25T20:58:47.649227169+01:00"
+    created: "2019-06-26T14:21:08.93894417+01:00"
     description: An unofficial COmanage Helm chart for Kubernetes
     digest: 0da1ea8df7bb8764bef9c46218dab2d1439991af7ead8d12ea8425c719efdeea
     icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
@@ -53,7 +53,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2019-06-25T20:58:47.648295611+01:00"
+    created: "2019-06-26T14:21:08.936404208+01:00"
     description: An unofficial COmanage Helm chart for Kubernetes
     digest: 69a51d53b843d0935cc017d69fce6258ecb57bb2958729901b3ec03598014b38
     icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
@@ -63,7 +63,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2019-06-25T20:58:47.647414154+01:00"
+    created: "2019-06-26T14:21:08.93370107+01:00"
     description: An unofficial COmanage Helm chart for Kubernetes
     digest: 75820fe6c1c7a4db460045a7d8084aa4a506661512aa4c038f653c8e868be7d6
     icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
@@ -73,7 +73,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2019-06-25T20:58:47.64530621+01:00"
+    created: "2019-06-26T14:21:08.928195107+01:00"
     description: An unofficial COmanage Helm chart for Kubernetes
     digest: 63994a7a11a8daa094ea1d5d2692eef767cbf7f4821370e1a8e9cd94305ea0fb
     icon: https://spaces.internet2.edu/download/attachments/10732/COmanage_logos_color.png
@@ -84,7 +84,7 @@ entries:
   federation:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-25T20:58:47.654827186+01:00"
+    created: "2019-06-26T14:21:08.955191131+01:00"
     description: A Helm chart for Kubernetes
     digest: 07c0e23339e9726a79190bc7b889f1ea0a0a6304f31dee14baba047fb17fe10a
     name: federation
@@ -94,7 +94,7 @@ entries:
   kerberos:
   - apiVersion: v1
     appVersion: "1.15"
-    created: "2019-06-25T20:58:47.655609233+01:00"
+    created: "2019-06-26T14:21:08.957031487+01:00"
     description: MIT Kerberos 5 chart
     digest: ee00678b5c6e124d8a6d361061d6a5a309c22e848a06a0f24dae0d9b288ea595
     name: kerberos
@@ -103,7 +103,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.15"
-    created: "2019-06-25T20:58:47.655202777+01:00"
+    created: "2019-06-26T14:21:08.956138675+01:00"
     description: MIT Kerberos 5 chart
     digest: dbf03b451114ed0498715d6ca21e8d70c3f84a81fd23b4c75ee26d0911faa364
     name: kerberos
@@ -113,7 +113,17 @@ entries:
   shibboleth-idp:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-25T20:58:47.656060492+01:00"
+    created: "2019-06-26T14:21:08.964475655+01:00"
+    description: A Helm chart for Shibboleth IdP
+    digest: 25cf3f5b9735c140598b0e29f222c96520ed805f28f2b1f0ad80494d0153c3a4
+    icon: https://www.shibboleth.net/wp-content/uploads/2017/01/Shibboleth-logo_2000x1200-1.png
+    name: shibboleth-idp
+    urls:
+    - shibboleth-idp-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-06-26T14:21:08.958236385+01:00"
     description: A Helm chart for Kubernetes
     digest: b4410fc48648d06911db0b641b8a122c903c7acfda1b5a80ff5fbda1ca9ddf4a
     icon: https://www.shibboleth.net/wp-content/uploads/2017/01/Shibboleth-logo_2000x1200-1.png
@@ -121,4 +131,14 @@ entries:
     urls:
     - shibboleth-idp-0.1.0.tgz
     version: 0.1.0
-generated: "2019-06-25T20:58:47.643293061+01:00"
+  shibboleth-sp:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-06-26T14:21:08.96516929+01:00"
+    description: A Helm chart for Kubernetes
+    digest: aebdd138a628d13a5842dac7778070ad608333f7ded14d363ef8427d912e9b4d
+    name: shibboleth-sp
+    urls:
+    - shibboleth-sp-0.2.0.tgz
+    version: 0.2.0
+generated: "2019-06-26T14:21:08.921589566+01:00"
