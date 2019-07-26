@@ -6,7 +6,10 @@ Build some Helm packages in the folder:
 ```
 helm package ../comanage/
 helm package ../kerberos/
+helm package ../mdq-browser/
+helm package ../pyff/
 helm package ../shibboleth-idp/
+helm package ../shibboleth-sp/
 ```
 Rebuild the index:
 ```
