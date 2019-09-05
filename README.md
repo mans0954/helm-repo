@@ -10,6 +10,7 @@ helm package ../mdq-browser/
 helm package ../pyff/
 helm package ../shibboleth-idp/
 helm package ../shibboleth-sp/
+helm package ../passport-saml/
 ```
 Rebuild the index:
 ```
